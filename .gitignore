@@ -1,0 +1,12 @@
+# Binaries
+/go-pg-bench
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Dependencies
+vendor/
